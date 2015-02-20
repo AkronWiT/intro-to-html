@@ -1,5 +1,6 @@
-/*body{
-	background-color:#CCFFFF;
+body{
+	background-color:#000;
+	font-family: sans-serif;
 }
 h1{
 	font-size:70px;
@@ -26,7 +27,7 @@ a:hover{
 	width:80%;
 	background-color:white;
 	padding: 20px;
-	
+
 }
 .whoweare{
 	border:1px solid black;
@@ -40,4 +41,3 @@ a:hover{
 .right{
 	float:right;
 }
-*/
